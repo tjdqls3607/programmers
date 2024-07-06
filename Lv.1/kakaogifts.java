@@ -1,7 +1,7 @@
 package H;
 
 import java.util.HashMap;
-
+import java.util.*
 class Solution {
     public int solution(String[] friends, String[] gifts) {
         int answer = 0;
